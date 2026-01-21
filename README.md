@@ -13,6 +13,6 @@ Projeto simples desenvolvido durante um curso, com o objetivo de praticar concei
 ---
 
 ## 📷 Preview
-
+![image alt](https://github.com/zeroonefps/Projeto-TecBlog/blob/060d8c4ff6d10c25c7315775cfd2e505fabb3b8d/Tecblog.jpeg)
 
 
